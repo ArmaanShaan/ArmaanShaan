@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">WELCOME TO MY PROFILE 👋</h1>
 
-<!--
-**ArmaanShaan/ArmaanShaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Armaan Shaan</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Computer Science Student (Graphics & Multimedia)</b>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  I am a first-year undergraduate at Universiti Teknologi Malaysia (UTM).  
+  My interests include graphics systems, multimedia software, and structured software development.
+</p>
+
+<p align="center">
+  📍 Johor, Malaysia <br>
+  📧 muhammadrendyatsary@graduate.utm.my
+</p>
+
+---
+
+## 🎓 Education
+
+**Universiti Teknologi Malaysia (UTM)**  
+Bachelor of Computer Science (Graphics & Multimedia)  
+2024 – Present  
+
+---
+
+## 🧠 Skills
+
+### Programming & Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### Classroom Booking Management System (CBMS)
+A centralized database-driven system designed to manage classroom reservations efficiently.
+
+**Technologies:** C++, MySQL, Database Design  
+
+---
+
+### Tic Tac Toe (2D Game Project)
+A graphical 2D Tic-Tac-Toe game built using C++ and WinBGIm.
+
+**Technologies:** C++, WinBGIm  
+
+---
+
+<p align="center">
+  ⭐ Thank you for visiting my profile.
+</p>
